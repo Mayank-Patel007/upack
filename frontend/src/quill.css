@@ -1,0 +1,23 @@
+.quill {
+    font-family: inherit;
+}
+
+.q1-editor{
+    padding: 0 !important;
+}
+
+.quill h1 {
+    @apply text-3xl font-bold;
+}
+
+.quill h2 {
+    @apply text-2xl font-semibold;
+}
+
+.quill h3 {
+    @apply text-xl font-medium;
+}
+
+.quill p {
+    @apply text-base;
+}
